@@ -52,8 +52,8 @@ Follow these steps to deploy Prometheus and Grafana with Terraform.
 
 1. Clone the Repository
 ```bash
-git clone this repository
-cd repository
+git clone https://github.com/oluwafemiayo/monitoring-stack
+cd monitoring-stack
 ```
 
 2. Initialize Terraform
