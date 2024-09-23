@@ -114,9 +114,9 @@ To destroy the resources created by Terraform, use the following command:
 ```bash
 terraform destroy
 ```
-This will remove the Prometheus and Grafana deployments and any associated resources from your Kubernetes cluster.
 
-Additional Configuration
+
+For Additional Configuration
 
 Alerting: You can configure custom alerts in Grafana to trigger based on Prometheus metrics.
 Dashboards: You can import community dashboards or build your own within Grafana.
