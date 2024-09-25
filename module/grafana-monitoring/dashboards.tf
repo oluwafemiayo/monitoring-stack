@@ -248,7 +248,7 @@ resource "null_resource" "email" {
               "name": "Email Alert",
               "type": "email",
               "settings": {
-                "addresses": "test@devteam.com"
+                "addresses": "devtest@devteam.com"
               },
               "isDefault": true
             }'
